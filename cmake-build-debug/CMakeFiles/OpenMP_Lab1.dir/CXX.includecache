@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roman/CLionProjects/lab1/lab1.cpp
+iostream
+-
+omp.h
+-
+
+/home/roman/CLionProjects/lab1/lab2.cpp
+iostream
+-
+iomanip
+-
+omp.h
+-
+

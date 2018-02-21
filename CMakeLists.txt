@@ -4,5 +4,5 @@ project(lab1)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11 -fopenmp")
 
-set(SOURCE_FILES lab1.cpp lab2.cpp lab3.cpp)
+set(SOURCE_FILES lab1.cpp lab2.cpp lab3.cpp lab3.cpp)
 add_executable(OpenMP_Lab1 ${SOURCE_FILES})

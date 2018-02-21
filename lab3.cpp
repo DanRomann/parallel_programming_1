@@ -12,6 +12,7 @@ int sum_critical(int a[], int size){
         sum += a[i];
         };
     }
+
     return sum;
 };
 

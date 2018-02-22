@@ -30,7 +30,7 @@ int sum_reduction(int a[], int size){
     return sum;
 }
 
-int main(){
+int main3(){
     int a[] = {2,3,4,5,6,7};
     int size = 6;
     sum_critical(a, size);

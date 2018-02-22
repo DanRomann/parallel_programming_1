@@ -6,7 +6,7 @@ using namespace std;
 int main1() {
 #pragma omp parallel num_threads(10)
     {
-        cout << "Hello, World! \n";
+        cout << "Hello, World!"<<endl;
     }
     return 0;
 }

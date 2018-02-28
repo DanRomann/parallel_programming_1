@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/OpenMP_Lab1.dir/lab1.cpp.o"
   "CMakeFiles/OpenMP_Lab1.dir/lab2.cpp.o"
   "CMakeFiles/OpenMP_Lab1.dir/lab3.cpp.o"
+  "CMakeFiles/OpenMP_Lab1.dir/lab4.cpp.o"
+  "CMakeFiles/OpenMP_Lab1.dir/lab5.cpp.o"
   "OpenMP_Lab1.pdb"
   "OpenMP_Lab1"
 )

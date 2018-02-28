@@ -5,3 +5,9 @@ CMakeFiles/OpenMP_Lab1.dir/lab1.cpp.o: ../lab1.cpp
 
 CMakeFiles/OpenMP_Lab1.dir/lab2.cpp.o: ../lab2.cpp
 
+CMakeFiles/OpenMP_Lab1.dir/lab3.cpp.o: ../lab3.cpp
+
+CMakeFiles/OpenMP_Lab1.dir/lab4.cpp.o: ../lab4.cpp
+
+CMakeFiles/OpenMP_Lab1.dir/lab5.cpp.o: ../lab5.cpp
+

@@ -204,6 +204,60 @@ lab3.cpp.s:
 	$(MAKE) -f CMakeFiles/OpenMP_Lab1.dir/build.make CMakeFiles/OpenMP_Lab1.dir/lab3.cpp.s
 .PHONY : lab3.cpp.s
 
+lab4.o: lab4.cpp.o
+
+.PHONY : lab4.o
+
+# target to build an object file
+lab4.cpp.o:
+	$(MAKE) -f CMakeFiles/OpenMP_Lab1.dir/build.make CMakeFiles/OpenMP_Lab1.dir/lab4.cpp.o
+.PHONY : lab4.cpp.o
+
+lab4.i: lab4.cpp.i
+
+.PHONY : lab4.i
+
+# target to preprocess a source file
+lab4.cpp.i:
+	$(MAKE) -f CMakeFiles/OpenMP_Lab1.dir/build.make CMakeFiles/OpenMP_Lab1.dir/lab4.cpp.i
+.PHONY : lab4.cpp.i
+
+lab4.s: lab4.cpp.s
+
+.PHONY : lab4.s
+
+# target to generate assembly for a file
+lab4.cpp.s:
+	$(MAKE) -f CMakeFiles/OpenMP_Lab1.dir/build.make CMakeFiles/OpenMP_Lab1.dir/lab4.cpp.s
+.PHONY : lab4.cpp.s
+
+lab5.o: lab5.cpp.o
+
+.PHONY : lab5.o
+
+# target to build an object file
+lab5.cpp.o:
+	$(MAKE) -f CMakeFiles/OpenMP_Lab1.dir/build.make CMakeFiles/OpenMP_Lab1.dir/lab5.cpp.o
+.PHONY : lab5.cpp.o
+
+lab5.i: lab5.cpp.i
+
+.PHONY : lab5.i
+
+# target to preprocess a source file
+lab5.cpp.i:
+	$(MAKE) -f CMakeFiles/OpenMP_Lab1.dir/build.make CMakeFiles/OpenMP_Lab1.dir/lab5.cpp.i
+.PHONY : lab5.cpp.i
+
+lab5.s: lab5.cpp.s
+
+.PHONY : lab5.s
+
+# target to generate assembly for a file
+lab5.cpp.s:
+	$(MAKE) -f CMakeFiles/OpenMP_Lab1.dir/build.make CMakeFiles/OpenMP_Lab1.dir/lab5.cpp.s
+.PHONY : lab5.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -222,6 +276,12 @@ help:
 	@echo "... lab3.o"
 	@echo "... lab3.i"
 	@echo "... lab3.s"
+	@echo "... lab4.o"
+	@echo "... lab4.i"
+	@echo "... lab4.s"
+	@echo "... lab5.o"
+	@echo "... lab5.i"
+	@echo "... lab5.s"
 .PHONY : help
 
 

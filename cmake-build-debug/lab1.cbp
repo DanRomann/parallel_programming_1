@@ -93,6 +93,12 @@
 		<Unit filename="/home/roman/CLionProjects/lab1/lab3.cpp">
 			<Option target="OpenMP_Lab1"/>
 		</Unit>
+		<Unit filename="/home/roman/CLionProjects/lab1/lab4.cpp">
+			<Option target="OpenMP_Lab1"/>
+		</Unit>
+		<Unit filename="/home/roman/CLionProjects/lab1/lab5.cpp">
+			<Option target="OpenMP_Lab1"/>
+		</Unit>
 		<Unit filename="/home/roman/CLionProjects/lab1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

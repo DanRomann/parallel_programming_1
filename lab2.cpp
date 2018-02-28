@@ -54,7 +54,8 @@ void time_first_half(){
         if (i < 50)
             sleep(1);
     }
-    cout<<setw(12)<<omp_get_wtime() - timer<<"|";
+    cout<<setw(12);
+    cout<<omp_get_wtime() - timer<<"|";
     timer = omp_get_wtime();
 #pragma omp parallel for schedule(dynamic)
     for(int i = 0; i < 100; i++){
@@ -68,7 +69,8 @@ void time_first_half(){
         if (i < 50)
             sleep(1);
     }
-    cout<<setw(12)<<omp_get_wtime() - timer<<"|"<<endl;
+    cout<<setw(12);
+    cout<<omp_get_wtime() - timer<<"|"<<endl;
 }
 
 int main2(){
